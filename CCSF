@@ -1,2 +1,6 @@
 cd Desktop/HW Website
 git clone https://github.com/jrackard99/HW Website.git
+cd HW Website
+git add .
+git commit -m "Uploaded my homework website."
+git push origin master
